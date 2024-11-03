@@ -1,0 +1,18 @@
+/* Ctrl+/ is a shortcut for comments to hide explanatory notes or old code */
+
+h1 {
+    color:red;
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 10px brown solid;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.title {
+    background-color: darkgrey;
+}
+
+#draft{
+    color:lightgray
+}
